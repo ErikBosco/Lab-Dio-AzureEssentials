@@ -52,5 +52,30 @@ São as formas e as ferramentas disponíveis para gerenciar o ambiente em nuvem,
 
 É possível implantar recursos com base em um modelo pré-configurado, ermovendo a necessidade de configuração manual.
 
+# TIPOS DE SERVIÇO DE NUVEM
 
+## IaaS (Infraestrutura como serviço)
 
+    Serviços de Nuvem mais flexível.
+    Você configura e gerencia o hardware para o seu aplicativo.
+    Necessita de configuração e personalização dos recursos, exemplos de recursos:
+    Servidores e Armazenamento
+    Firewalls\Segurança de rede
+    Planta física\edifício do datacenter
+
+## PaaS (PLataforma como serviço)
+
+    Focado no desenvolvimento de aplicativos.
+    O gerenciamento de plataforma é de responsabilidade do provedor de nuvem.
+    Além dos recursos acima, o PaaS também engloba Sistemas Operacionais, ferramentas para desenvolvedores, análise de negócios de gerenciamento de database.
+    Um exemplo, é um banco de dados hospedado em nuvem, onde usamos apenas a plataforma de database e não me preocupo com o servidor onde ele está hospedado.
+
+## SaaS (Software como serviço)
+
+    Modelo de preço de pagamento conforme uso.
+    Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+    São os aplicativos e apps hospedados na nuvem, são aplicativos licenciados, exemplo: Office 365, email, calendários, Netflix, Spofify.
+
+# MODELO DE RESPONSABILIDADE COMPARTILHADA
+
+![alt text](image.png)
