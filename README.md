@@ -79,3 +79,56 @@ São as formas e as ferramentas disponíveis para gerenciar o ambiente em nuvem,
 # MODELO DE RESPONSABILIDADE COMPARTILHADA
 
 ![alt text](image.png)
+
+# COMPONENTES DE ARQUITETURA DO AZURE
+
+Os componentes de arquitetura do Azurereferir-se
+
+1. Computação
+    Máquinas Virtuais (VMs) : Serv
+    Serviços de aplicativos : Serviço de hospedagem de
+    Serviço Azure Kubernetes (AKS) :
+    Funções do Azure :
+
+2. Rede
+    Rede Virtual (VNet) :
+    Balanceador de Carga do Azure :
+    Gateway VPN : Perm
+
+3. Armazenamento
+    Armazenamento de Blobs do Azure:
+    Arquivos do Azure:
+    Armazenamento em disco do Azure : Ar
+
+4. Bancos de Dados
+    Banco de Dados SQL do Azure: Banco
+    Cosmos DB:
+    /PostgreSQL : Serviços de
+
+5. Monitoramento e Gerenciamento
+    Monitor do Azure :
+    Central de Segurança do Azure:
+    Automação do Azure :
+
+6. Identidade e Acesso
+    Diretório Ativo do Azure (Azure AD):
+    Controle de acesso baseado em função (RBAC) : Ger
+
+7. Ferramentas de Integração
+    Aplicativos lógicos do Azure:
+    Ônibus de serviço: Fila
+    Grade de eventos:
+
+8. Segurança
+    Cofre de Chaves do Azure :
+    Firewall do Azure: Firewall
+    Proteção DDoS:
+
+9. Aprendizado de Máquina e IA
+    Aprendizado de máquina do Azure:
+    Serviços Cognitivos: APIs
+
+10. DevOps e Desenvolvimento
+    Azure DevOps:
+    Pipelines do Azure:
+    Esses componentes são combinados para formar soluções robustas e escaláveis ​​na nuvem, cada uma atendendo a diferentes necessidades
