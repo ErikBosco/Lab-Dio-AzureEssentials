@@ -133,4 +133,35 @@ Os componentes de arquitetura do Azurereferir-se
     Azure DevOps
     Pipelines do Azure
     
-Esses componentes são combinados para formar soluções robustas e escaláveis ​​na nuvem, cada uma atendendo a diferentes necessidades
+Esses componentes são combinados para formar soluções robustas e escaláveis ​​na nuvem, cada uma atendendo a diferentes necessidades.
+
+# Pares de Região (Region Pairs)
+
+Pares de Região garantem alta disponibilidade e resiliência, proporcionando replicação geográfica de dados e continuidade dos serviços em caso de falhas.
+
+Características principais:
+
+    Alta Disponibilidade
+    Replicação de Dados
+    Distância Física
+    Atualizações Planejadas
+
+## Exemplo de Pares
+
+    Leste dos EUA eOeste dos EUA
+    Leste da Austrália e Sudeste da Austrália
+    Norte da Europa e Oeste da Europa
+    
+Esses pares garantem que, em caso de falha de uma região inteira (como desastres naturais ou problemas técnicos significativos), a região emparelhada pode continuar funcionando com seus dados e serviços replicados.
+
+# Grupos de Recursos (Resource Groups)
+
+Grupos de Recursos permitem organização eficiente e gerenciamento centralizado de recursos, facilitando a administração de soluções no Azure.
+
+Características:
+    
+    Organização
+    Gerenciamento Coletivo
+    Controle de Acesso
+    Tags
+    Ciclo de Vida dos Recursos
